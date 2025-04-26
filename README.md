@@ -19,7 +19,7 @@ The schematic includes the STM32F103C8T6 microcontroller, voltage regulation, US
 ![Schematic](images/scheme_stm32.PNG)
 
 ### PCB Layout and Routing
-The PCB is carefully routed to ensure stable operation, minimal noise, and good power distribution.
+The PCB is routed to ensure stable operation, minimal noise, and good power distribution.
 
 ![Routing and Layout](images/routings_stm32.PNG)
 
